@@ -4,6 +4,7 @@ public class VollerFehler {
 		System.out.println("Dieses Programm ist gleich fehlerfrei.");
 		System.out.println("Gitten testen.");
 		System.out.println("misst");
+		System.out.println("misst");
 		
 	}
 }
